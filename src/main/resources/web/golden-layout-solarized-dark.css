@@ -1,0 +1,30 @@
+.lm_header {
+	background-color: #002b36;  
+	color: #839496;  
+}
+
+.lm_tab.lm_active, .lm_tab:hover {
+	background-color: #073642;  
+}
+
+.lm_content {
+	background-color: #002b36;  
+	color: #839496;  
+}
+
+
+
+.lm_header .lm_tab {
+	background-color: #002b36;  
+	color: #839496;  
+}
+
+.lm_item {
+	background-color: #002b36;  
+	color: #839496;  
+}
+
+.lm_maximise {
+	color: #839496;  
+	filter: invert(100%);
+}
